@@ -9,8 +9,8 @@ public class Prgram
     void swap()
     {
         temp = number1;
-        number1 = number2;
-        number2 = temp;
+        number1 = number3;
+        number3 = temp;
 
         //Console.WriteLine("Swap numbers :" + )
     }
